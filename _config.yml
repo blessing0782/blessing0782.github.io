@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Apprentice"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "The apprentice of GPT"
 description              : "An amazing website."
 url                      : "https://blessing0782.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
